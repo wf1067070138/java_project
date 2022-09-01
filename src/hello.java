@@ -11,6 +11,9 @@ public class hello {
         p.setName("asdas");
         p.setName("asdas");
         p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
         p.setName("     ");
         System.out.println(p.getSalary());
 

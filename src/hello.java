@@ -3,6 +3,14 @@ public class hello {
         System.out.println("hesad");
         person p = new person("sada", 12, 1000);
         p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
+        p.setName("asdas");
         p.setName("     ");
         System.out.println(p.getSalary());
 
